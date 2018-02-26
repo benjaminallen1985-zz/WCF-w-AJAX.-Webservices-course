@@ -1,0 +1,6 @@
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\bin\Debug\Data.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\bin\Debug\Data.pdb
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\obj\Debug\Data.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\obj\Debug\Data.pdb
+C:\Users\Awesome\source\repos\PunService.AJAX\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

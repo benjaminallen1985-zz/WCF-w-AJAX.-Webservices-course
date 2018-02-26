@@ -1,0 +1,14 @@
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunService.AJAX.dll.config
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunService.AJAX.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunService.AJAX.pdb
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\Data.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunClient.exe
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\Data.pdb
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunClient.pdb
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\PunClient.exe.config
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\obj\Debug\PunService.AJAX.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\obj\Debug\PunService.AJAX.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\obj\Debug\PunService.AJAX.dll
+C:\Users\Awesome\source\repos\PunService.AJAX\PunService.AJAX\obj\Debug\PunService.AJAX.pdb
